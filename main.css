@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+h1 {
+	font-family: "Amatic SC", 'serif'; 
+	font-size: 100px;
+}
+body {
+    background-color: #00A8E8;
+}
